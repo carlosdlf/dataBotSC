@@ -1,0 +1,20 @@
+{
+  "partidos":[
+      {
+          "tipo":"A",
+          "rival":"Deportivo Binacional",
+          "fecha":"12/03/2021 18:00",
+          "resultado":"0-4",
+          "goles": ["Cancha Gonzales", "Gerald Tavara", "Omar Merlo", "Cancha Gonzales"],
+          "tarjetas_amarillas": ["Omar Merlo"]
+      },
+      {
+        "tipo":"H",
+        "rival":"Sport Boys",
+        "fecha":"19/03/2021 18:00",
+        "resultado":"1-0",
+        "goles": ["Horacio Calcaterra"],
+        "tarjetas_amarillas": ["Gerald Tavara", "Christofer Gonzáles", "Washington Corozo", "Irven Avila", "Johan Madrid"]
+    }
+  ]       
+}
